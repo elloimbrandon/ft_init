@@ -1,0 +1,2 @@
+ifconfig | grep "broadcast" | sed -n 1p
+ifconfig | grep "inet"
