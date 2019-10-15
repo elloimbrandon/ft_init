@@ -1,0 +1,4 @@
+using the DNS lookup utility command (host) and the flag (-d) to print debugging traces you'll see AUTHORITY which is contains the name of host by sending a query.
+
+command: (host -d 10.111.8.10 | grep -o e.z.r.p..)
+output: (e1z1r8p10) 

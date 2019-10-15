@@ -1,0 +1,1 @@
+as admin you need create ssh keys and give the new user admin permissions. Then edit the sshd_config file then restart the server.

@@ -1,0 +1,3 @@
+The ip to the DNS server currently running is in "/etc" directory.
+To see contents open "resolv.conf"
+command to see contents: cat /etc/resolv.conf

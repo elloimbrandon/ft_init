@@ -1,0 +1,8 @@
+same command as 07 but replacing (slash16.org) with (42.fr) and narrowing ip.
+
+command:
+dig 42.fr @8.8.8.8 | grep 42.fr
+
+external ip of 42.fr output:
+163.172.250.13
+163.172.250.12

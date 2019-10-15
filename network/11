@@ -1,0 +1,4 @@
+the device that connects the computer to the outside world is NAT.
+in our case using the last command it would be the gateway.
+
+(gateway: 10.111.254.254)
